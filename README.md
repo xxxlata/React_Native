@@ -1,2 +1,2 @@
 ### result
-![src](img/clouds.jpg?raw=true)
+<img src="img/clouds.jpg" width="200" height="400"/>
